@@ -1,0 +1,32 @@
+{
+  "name": "react-development-environment-demo",
+  "version": "1.0.0",
+  "description": "React Development Environment Demo",
+  "dependencies": {
+    "bootstrap": "5.0.2",
+    "prop-types": "15.7.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "author": "Dilan Livera",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-preset-react-app": "^10.0.0",
+    "css-loader": "5.2.6",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-webpack-plugin": "^3.0.1",
+    "html-webpack-plugin": "^5.3.2",
+    "npm-run-all": "^4.1.5",
+    "style-loader": "3.0.0",
+    "webpack": "^5.50.0",
+    "webpack-bundle-analyzer": "4.4.2",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
