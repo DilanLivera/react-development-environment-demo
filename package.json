@@ -8,6 +8,9 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   },
+  "scripts": {
+    "start": "webpack serve --config webpack.config.dev.js"
+  },
   "author": "Dilan Livera",
   "license": "MIT",
   "devDependencies": {
